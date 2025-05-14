@@ -16,6 +16,8 @@ fetch("questions.json")
 
 function showQuestion() {
   clearOptions();
+  document.getElementById("question-count").textContent =
+  `Question ${currentQuestionIndex + 1} of ${questions.length}`;
   const q = questions[currentQuestionIndex];
   questionText.textContent = q.question;
   q.options.forEach((option, index) => {
