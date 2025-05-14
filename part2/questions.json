@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Tool Markup Language",
+      "HyperText Markup Language",
+      "Hyperlink Text Module Language",
+      "Home Tool Markup Language"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a programming language?",
+    "options": ["Python", "HTML", "Java", "C++"],
+    "answer": 1
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Computer Style Sheet", "Cascading Style Sheet", "Colorful Style Syntax", "Creative Style Syntax"],
+    "answer": 1
+  }
+]
